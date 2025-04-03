@@ -1,0 +1,5 @@
+flask==2.0.1
+flask-socketio==5.1.1
+python-socketio==5.4.0
+pygame==2.1.2
+pyinstaller==5.1 
